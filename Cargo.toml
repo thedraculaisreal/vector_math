@@ -1,0 +1,8 @@
+[package]
+name = "math_vector"
+version = "0.1.0"
+edition = "2021"
+description = "My package for aimbot calculations / vector math"
+
+[dependencies]
+libm = "0.2.11"

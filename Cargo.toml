@@ -1,9 +1,10 @@
 [package]
-name = "math_vector"
-version = "0.1.0"
+name = "rustbot"
+version = "0.2.0"
 edition = "2021"
 description = "My package for aimbot calculations / vector math"
 repository = "https://github.com/thedraculaisreal/vector_math"
+license-file = "LICENSE.txt"
 
 [dependencies]
 libm = "0.2.11"

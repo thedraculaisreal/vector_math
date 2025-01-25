@@ -1,0 +1,8 @@
+The Unlicense
+
+This is free and open software, released into the public domain.
+Anyone is free to copy, modify, distribute, or use this software,
+for any purpose, without any restrictions or warranty.
+
+You can read the full text of the Unlicense at: 
+http://unlicense.org/
